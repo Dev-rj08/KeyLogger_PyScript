@@ -1,0 +1,80 @@
+KEYLOGGER Python Script
+
+Special key pressed: Key.shift
+Key pressed: M
+Key pressed: y
+Key pressed: s
+Key pressed: e
+Key pressed: l
+Key pressed: f
+Special key pressed: Key.space
+Special key pressed: Key.shift
+Key pressed: R
+Key pressed: j
+Special key pressed: Key.space
+Key pressed: f
+Key pressed: r
+Key pressed: o
+Key pressed: m
+Special key pressed: Key.space
+Special key pressed: Key.shift
+Key pressed: V
+Key pressed: I
+Key pressed: T
+Special key pressed: Key.space
+Special key pressed: Key.backspace
+Key pressed: .
+Key pressed: .
+Key pressed: .
+Special key pressed: Key.shift
+Key pressed: T
+Key pressed: e
+Key pressed: s
+Key pressed: t
+Key pressed: i
+Key pressed: n
+Key pressed: g
+Special key pressed: Key.space
+Key pressed: t
+Key pressed: h
+Key pressed: i
+Key pressed: s
+Special key pressed: Key.space
+Key pressed: k
+Key pressed: e
+Key pressed: y
+Key pressed: l
+Key pressed: o
+Key pressed: g
+Key pressed: g
+Key pressed: e
+Key pressed: r
+Key pressed: .
+Key pressed: .
+Key pressed: i
+Key pressed: g
+Special key pressed: Key.space
+Key pressed: t
+Key pressed: h
+Key pressed: i
+Key pressed: s
+Special key pressed: Key.space
+Key pressed: w
+Key pressed: o
+Key pressed: r
+Key pressed: k
+Key pressed: s
+Special key pressed: Key.space
+Key pressed: p
+Key pressed: e
+Key pressed: r
+Key pressed: f
+Key pressed: e
+Key pressed: c
+Key pressed: t
+Key pressed: .
+Key pressed: .
+Key pressed: b
+Key pressed: y
+Key pressed: e
+Special key pressed: Key.esc
